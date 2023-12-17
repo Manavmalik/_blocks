@@ -1,2 +1,2 @@
-# college-project
+# _blocks
 author - MANAV MALIK
